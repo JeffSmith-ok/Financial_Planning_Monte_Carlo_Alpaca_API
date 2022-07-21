@@ -16,7 +16,7 @@ This was developed with Anaconda, which includes Pandas, Matplotlib and Jupyter_
 
 ## Installation Guide
 
-To install the programs to run the program, you have to do the following or you can open 'risk_return_analysis.ipynb' in github and read the file there.
+To install the programs to run the program, you have to do the following or you can open 'financial_planning_tools.ipynb' in github and read the file there.
 
 Install Anaconda and Python. </br>
 
@@ -24,7 +24,7 @@ Git clone the repo and run it, pursuant to the following clone address
 
 git clone https://github.com/JeffSmith-ok/Module_5_Challenge
 
-cd Module_4_challenge
+cd Module_5_challenge
 
 In the terminal type 'Jupyter Lab'
 
