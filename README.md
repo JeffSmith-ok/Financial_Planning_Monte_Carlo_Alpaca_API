@@ -1,4 +1,4 @@
-# Retirement and Emergency Financial Planning with APIs and Simulations
+# Retirement and Emergency Financial Planning with APIs and Monte Carlo Simulations
 
 In this Challenge, I’ll create two financial analysis tools by using a single Jupyter notebook:
 
